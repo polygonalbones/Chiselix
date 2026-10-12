@@ -1,3 +1,5 @@
+<img width="256" height="256" alt="chiselix logo" src="chiselix.png" />
+
 # Chiselix
 Nix development environment for the [Chisel](https://github.com/ElgenTidwell/Chisel) game engine
 
